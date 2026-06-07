@@ -629,7 +629,6 @@ button { cursor: pointer; font-family: inherit; }
 
 /* Skills by category */
 .skills-by-category { display: flex; flex-direction: column; gap: 16px; }
-.skill-category {}
 .skill-category__name {
   font-size: .72rem;
   text-transform: uppercase;
